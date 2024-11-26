@@ -1,8 +1,8 @@
 public class User {
-
-    private String name;
+    private String name = "Unknown";
 
     public String getName() {
         return name;
     }
 }
+
